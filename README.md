@@ -1,5 +1,7 @@
 # Backend Challenge 20230105
 
+https://coodesh.com/pt/assessments/project/8ba89fff-1917-4971-91ad-88f96c554839/intro
+
 ## Introdução
 
 Nesse desafio trabalharemos no desenvolvimento de uma REST API para utilizar os dados do projeto Open Food Facts, que é um banco de dados aberto com informação nutricional de diversos produtos alimentícios.
